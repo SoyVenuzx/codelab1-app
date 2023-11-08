@@ -92,7 +92,7 @@ fun ReplyHomeScreen(
         )
     )
     if (navigationType == ReplyNavigationType.PERMANENT_NAVIGATION_DRAWER) {
-        val navigationDrawerContentDescription = stringResource(R.string.navigation_drawer)
+        val navigationDrawerContentDescription = stringResource(R.string.navigation_rail)
         PermanentNavigationDrawer(
             drawerContent = {
                 PermanentDrawerSheet(Modifier.width(dimensionResource(R.dimen.drawer_width))) {

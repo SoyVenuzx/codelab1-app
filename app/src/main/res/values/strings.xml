@@ -176,6 +176,7 @@
     </string>
     <string name="email_11_time">3 hours ago</string>
 
-    <string name="navigation_bottom">Navigation Bottom</string>
+<!--    <string name="navigation_bottom">Navigation Bottom</string>-->
+<!--    <string name="navigation_rail">Navigation Rail</string>-->
 
 </resources>
